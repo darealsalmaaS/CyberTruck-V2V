@@ -1,0 +1,18 @@
+# Node / Vite
+node_modules/
+dist/
+.vite/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arduino build
+build/
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+capture_*.jpg
