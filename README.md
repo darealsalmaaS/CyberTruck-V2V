@@ -2,7 +2,7 @@
 
 Projet de module — **ENSA Marrakech**
 Encadrant : M. Hatim Anas
-Équipe : Lachab Fayza · Lafraoui Kaoutar · Laguida Omar · Sadgal Salma · Ghayate Oualid
+Équipe : Lachhab Fayza · Lafraoui Kaoutar · Laguida Omar · Sadgal Salma · Ghayate Oualid
 
 ---
 
